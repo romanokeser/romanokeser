@@ -14,7 +14,7 @@
 
 #### 🤝 Connect with me 
 <a href="https://www.linkedin.com/in/romano-keser-984a78217/"><img align="left" src="https://github.com/romanokeser/romanokeser/blob/main/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
-
+<br>
 ### Skills/Tools used:
 - SQLite
 - Figma/Photoshop
