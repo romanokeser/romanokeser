@@ -21,9 +21,10 @@
 - Unity Animator
 - DoTween
 - Basic kowledge of compute shaders
+- Desktop App development (WPF .NET)
 
 ### 😶‍ About me:
-I’m an IT student at Polytechnic of Međimurje in Čakovec (3rd year/advanced university student). I spent six months at Erasmus student exchange in Portugal (IPCA University) where I participated in many different projects and learning new technologies. 
+I’m an IT student at Polytechnic of Međimurje in Čakovec (3rd year/advanced university student). I spent six months at Erasmus student exchange in Portugal (IPCA University) where I participated in many different projects and learning new technologies. Oh yes, and I love working with Unity 
 
 ### 🌱 Currently Learning:
 - Flutter/Dart
