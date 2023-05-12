@@ -21,7 +21,7 @@
 - Desktop App development (WPF .NET)
 
 ### 😶‍ About me:
-I am an IT student at Polytechnic of Međimurje in Čakovec, currently in my third year of advanced university studies. During my six-month Erasmus student exchange program in Portugal at IPCA University, I participated in various projects and took part in an [Advanced 3D programming](https://github.com/romanokeser/Advanced-3D-programming) study. Uhh yeah, and I enjoy working with Unity :)
+I am an IT student at Polytechnic of Međimurje in Čakovec, currently in my third year of advanced university studies. During my six-month Erasmus student exchange program in Portugal at IPCA University, I participated in various [projects](https://portal.demola.net/cases/984) and took part in an [Advanced 3D programming](https://github.com/romanokeser/Advanced-3D-programming) study. Uhh yeah, and I enjoy working with Unity :)
 
 ### 🌱 Currently Learning:
 - Flutter/Dart
