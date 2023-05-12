@@ -1,4 +1,4 @@
-![baner](https://github.com/romanokeser/romanokeser/blob/main/baner.png)
+![baner](https://github.com/romanokeser/romanokeser/blob/main/baner2.png)
 
 ### Hi there 👋, I'm Romano
 
