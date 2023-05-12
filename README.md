@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/romano-keser-984a78217/"><img align="left" src="https://github.com/romanokeser/romanokeser/blob/main/OIP.jpeg" alt="icon | LinkedIn" width="21px"/></a>
 <br>
 
-### 🥸 About me:
+### 😶‍ About me:
 I’m an IT student at Polytechnic of Međimurje in Čakovec (3rd year/advanced university student). I spent six months at Erasmus student exchange in Portugal (IPCA University) where I participated in many different projects and learning new technologies. 
 
 ### 🌱 Currently Learning:
