@@ -13,7 +13,7 @@
 👨‍💻 Worked on several indie game projects
 
 #### 🤝 Connect with me 
-<a href="https://www.linkedin.com/in/romano-keser-984a78217/"><img align="left" src="https://github.com/romanokeser/romanokeser/blob/main/OIP.jpeg" alt="icon | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/romano-keser-984a78217/"><img align="left" src="https://github.com/romanokeser/romanokeser/blob/main/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
 
 ### Skills/Tools used:
 - SQLite
