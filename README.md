@@ -26,4 +26,4 @@
 I’m an IT student at Polytechnic of Međimurje in Čakovec (3rd year/advanced university student). I spent six months at Erasmus student exchange in Portugal (IPCA University) where I participated in many different projects and learning new technologies. 
 
 ### 🌱 Currently Learning:
-Flutter/Dart
+- Flutter/Dart
