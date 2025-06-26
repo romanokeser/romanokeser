@@ -4,8 +4,8 @@
 
 ## Game Developer & Software Engineer
 
-4️⃣+ Years of Unity 2D/3D experience <br>
 🕹️ CS Computer Systems <br>
+4️⃣+ Years of Unity 2D/3D experience <br>
 🕹️ Delta Reality (VR Simulation Developer)<br>
 🕹️ Novena d.o.o (Unity 2D/3D Developer)<br>
 👨‍💻 Worked on several indie game projects<br>
